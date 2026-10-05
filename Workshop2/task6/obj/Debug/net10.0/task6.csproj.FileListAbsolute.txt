@@ -1,0 +1,14 @@
+C:\Application Development\Workshop_2\Workshop2\task6\obj\Debug\net10.0\task6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Application Development\Workshop_2\Workshop2\task6\obj\Debug\net10.0\task6.AssemblyInfoInputs.cache
+C:\Application Development\Workshop_2\Workshop2\task6\obj\Debug\net10.0\task6.AssemblyInfo.cs
+C:\Application Development\Workshop_2\Workshop2\task6\obj\Debug\net10.0\task6.csproj.CoreCompileInputs.cache
+C:\Application Development\Workshop_2\Workshop2\task6\bin\Debug\net10.0\task6.exe
+C:\Application Development\Workshop_2\Workshop2\task6\bin\Debug\net10.0\task6.deps.json
+C:\Application Development\Workshop_2\Workshop2\task6\bin\Debug\net10.0\task6.runtimeconfig.json
+C:\Application Development\Workshop_2\Workshop2\task6\bin\Debug\net10.0\task6.dll
+C:\Application Development\Workshop_2\Workshop2\task6\bin\Debug\net10.0\task6.pdb
+C:\Application Development\Workshop_2\Workshop2\task6\obj\Debug\net10.0\task6.dll
+C:\Application Development\Workshop_2\Workshop2\task6\obj\Debug\net10.0\refint\task6.dll
+C:\Application Development\Workshop_2\Workshop2\task6\obj\Debug\net10.0\task6.pdb
+C:\Application Development\Workshop_2\Workshop2\task6\obj\Debug\net10.0\task6.genruntimeconfig.cache
+C:\Application Development\Workshop_2\Workshop2\task6\obj\Debug\net10.0\ref\task6.dll
